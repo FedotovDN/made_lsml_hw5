@@ -1,3 +1,11 @@
+<strong>linear_regression.sc</strong> - Scala-notebook with linear regression on diabet-dataset
+<br>
+<strong>diabet.csv</strong> - standart "diabet"-dataset
+<br>
+<strong>results.txt</strong> - results of Scala-notebook linear_regression.sc
+<br><br>
+<strong>RESULTS:</strong>
+<br>
 import breeze.linalg._
 
 Reading data...
